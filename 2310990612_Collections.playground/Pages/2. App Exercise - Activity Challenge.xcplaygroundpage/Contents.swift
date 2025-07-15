@@ -25,6 +25,7 @@ var challengesStarted:[String] = ["Jogging","PushUps"]
 if challengesStarted.isEmpty {
     print("Bhai koi challenge to kar :( ")
 }
+
 let count = challengesStarted.count
 if count == 1 {
     print("The challenge you have chosen is \(challengesStarted[0])")
