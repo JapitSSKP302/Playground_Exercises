@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  ST-Practice-EventPlanner
-//
-//  Created by Dr Amanpreet Singh on 01/08/25.
-//
+
 
 import UIKit
 
